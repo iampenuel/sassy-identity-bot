@@ -1,0 +1,22 @@
+# SASSY IDENTITY BOT: The Identity Protocol
+
+A sassy Python program that gathers basic user info like name, age, height, and humanity status—then reacts to it with dramatic commentary and low-key shade. Built using:
+
+- Python 3
+- Input validation (`try/except`)
+- f-strings
+- Conditional logic (`if/elif`)
+- Terminal sass
+
+## What I Learned
+- Data types: `int`, `float`, `str`, `bool`
+- Validating user input with `try/except`
+- Building logic trees with conditionals
+- How to inject way too much personality into a terminal program
+
+
+## Author
+
+Penuel Stanley-Zebulon
+
+
