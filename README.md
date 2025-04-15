@@ -46,7 +46,12 @@ Well there's your identity report Penuel!
 
 
 ## Author
-
 Penuel Stanley-Zebulon
+Electrical Engineering major @ Penn State | Learning Python, Git, and Machine Learning by building real things
 
+> [GitHub Profile](https://github.com/iampenuel)
+> [LinkedIn](www.linkedin.com/in/penuel-stanley-zebulon)
+
+## 💬 Side Note
+This was built as part of my learning journey :)
 
