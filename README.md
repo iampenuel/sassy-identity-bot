@@ -18,9 +18,9 @@ A sassy Python program that gathers basic user info like name, age, height, and 
 WELCOME to the Sassy Identity reactor!!!
 Let's get this party started!
 
-============================================
-   DATA ENTRY BOT: The Identity Protocol
-============================================
+
+ #  DATA ENTRY BOT: The Identity Protocol
+
 
 What's your first name?: Penuel  
 What's your last name?: Stanley-Zebulon  
